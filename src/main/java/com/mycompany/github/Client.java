@@ -25,7 +25,7 @@ public class Client {
     }
 
     public void setNIF(String NIF) {
-        this.NIF = NIF;
+        this.NIF = Nia;
     }
 
     public String getNom() {
